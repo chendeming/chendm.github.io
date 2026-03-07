@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Chen DM Blog](https://chendeming.me)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://chendm.github.io/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
