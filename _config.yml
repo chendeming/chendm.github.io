@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: chendeming@gmail.com
 description: "This is my discovery and think."
 keyword: "AIGC openclaw github copilot"
-url: "https://chendeming.github.io/chendm.github.io" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://chendeming.github.io" # your host, for absolute URL
+baseurl: "/chendm.github.io" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
