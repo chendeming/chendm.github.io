@@ -68,8 +68,8 @@ netease_comment: false
 # Baidu Analytics
 # ba_track_id: [your track id]
 
-# Google Analytics
-# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# Google Analytics (GA4)
+ga_track_id: "G-56YHQK3C2R"
 # ga_domain: chendeming.github.io
 
 # Sidebar settings
