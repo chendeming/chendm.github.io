@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: chendm-blog
+disqus_username: https-chendeming-github-io-chendm-github-io
 
 # Netease settings
 netease_comment: false
