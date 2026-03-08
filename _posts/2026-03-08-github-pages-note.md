@@ -5,7 +5,7 @@ author:       "Deming"
 header-style: text
 catalog:      true
 tags:
-    - openclaw
+    - github pages
 ---
 
 Why do I think of using github pages, because I want more people to see the technical related articles I wrote, and to be able to give some opinions, before writing some openclaw use notes, so in the openclaw forum, but found that there are not many people to see, so early what are the good personal blogs, deepseek recommends github pages, which is free, so we started looking for some stuff on the web and started setting it up.
