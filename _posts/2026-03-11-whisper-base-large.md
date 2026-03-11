@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Github pages Usage notes"
+title:        "whisper Usage History"
 author:       "Deming"
 header-style: text
 catalog:      true
