@@ -5,7 +5,7 @@ author:       "Deming"
 header-style: text
 catalog:      true
 tags:
-    - whiper
+    - whisper
 ---
 
 whisper Usage History
